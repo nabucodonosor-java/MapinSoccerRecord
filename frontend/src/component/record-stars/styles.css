@@ -1,0 +1,10 @@
+.soccer-stars-container {
+    width: 130px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.soccer-stars-container img {
+    width: 22px;
+    height: auto;
+}

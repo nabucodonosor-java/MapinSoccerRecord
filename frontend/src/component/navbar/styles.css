@@ -1,0 +1,24 @@
+header {
+    background-color: var(--color-primary);
+}
+
+.nav-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #1498d5;
+    height: 120px;
+}
+
+.nav-content h1 {
+    font-weight: bolder;
+    margin: 0;
+}
+
+.nav-content p {
+    color: #E1E1E1;
+}
+
+.nav-content img {
+    width: 30%;
+}
